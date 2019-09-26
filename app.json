@@ -22,7 +22,8 @@
     },
     "ACTIVITY_NAME": {
       "description": "Name of the Custom Activity in Journey Builder.",
-      "required": false
+      "required": false,
+      "value": "push_sample"
     },
     "ACTIVITY_DESCRIPTION":{
       "description": "Description of the Custom Activity purpose or usage.",
