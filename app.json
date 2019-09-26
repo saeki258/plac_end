@@ -22,8 +22,7 @@
     },
     "ACTIVITY_NAME": {
       "description": "Name of the Custom Activity in Journey Builder.",
-      "required": false,
-      "value": "Web Push"
+      "required": false
     },
     "ACTIVITY_DESCRIPTION":{
       "description": "Description of the Custom Activity purpose or usage.",
